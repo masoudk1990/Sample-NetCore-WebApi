@@ -136,9 +136,9 @@ namespace CompanyEmployee.API.Infrastructure.Extensions
                     Description = "Test",
                     Contact = new OpenApiContact
                     {
-                        Name = "Masoud K",
+                        Name = "Masoud Keshavarz",
                         Email = "masoudk1990@yahoo.com",
-                        Url = new Uri("https://www.pishgaman.net"),
+                        Url = new Uri("https://github.com/masoudk1990"),
                     },
                     License = new OpenApiLicense
                     {
